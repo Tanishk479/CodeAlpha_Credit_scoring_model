@@ -117,6 +117,7 @@ CodeAlpha_Credit_scoring_model/
 ├── model.py
 ├── README.md
 └── requirements.txt
+```
 
 ## Author
 Tanishk
