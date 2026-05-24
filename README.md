@@ -72,7 +72,7 @@ An ensemble learning algorithm that combines multiple decision trees for better 
 5. Feature Engineering
 6. Data Splitting
 7. Model Training
-8. Prediction
+8. Model Testing
 9. Model Evaluation
 10. Visualization
 
@@ -108,6 +108,15 @@ This project demonstrates how machine learning can help financial institutions p
 - Add real-time prediction system
 
 ---
+
+## Project Structure
+
+```text
+CodeAlpha_Credit_scoring_model/
+│
+├── model.py
+├── README.md
+└── requirements.txt
 
 ## Author
 Tanishk
